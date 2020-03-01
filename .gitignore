@@ -1,6 +1,6 @@
 node_modules
 .next
-
+Intro.txt
 dist
 # next.config.*
 # now.json
